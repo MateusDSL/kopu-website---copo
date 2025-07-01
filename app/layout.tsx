@@ -11,7 +11,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Dia Dos Pais",
+  title: "Copos e Canecas Personalizadas",
   description: "Created with M",
 }
 
